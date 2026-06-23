@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido de pasión
+
+This log tracks the cryptographic history and versioning for the song **Latido de pasión** (latido-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:43:03.762204 | `v1` | `cd058f0e47caba38aa5a070d603551f932d17360005306c6d425155d987f2af3` | `cc9a867dcdbb1eb3034b7262738d897a770c20e58600b59ddcd3b0535146e509` | `2026-06-23_latido-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

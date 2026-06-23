@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Latido de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-pasion/) |
+| **Get License** | [Commercial Licensing for Latido de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cd058f0e47caba38aa5a070d603551f932d17360005306c6d425155d987f2af3` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
