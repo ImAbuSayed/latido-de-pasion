@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Latido de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-pasion/) |
+| **Get License** | [Official Music Licensing for Latido de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento la química de tu cuerpo llamándome en la oscuridad
+> Una noche en Barcelona, perdiendo la voluntad
+> Me acerco lentamente con tanta intensidad
+> Tus ojos me confiesan lo que quieres de verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
